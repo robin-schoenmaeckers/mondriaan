@@ -62,7 +62,7 @@ function getWeather() {
 
 // MMT4, chapter 04 assignment 01 
 // Source from https://github.com/CocoDeijmann/mondriaan
-// Edited by Vincent Sijben
+// Edited by Robin Schoenmaeckers
 
 function display() {
   x = mouseX;
